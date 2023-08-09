@@ -5,8 +5,8 @@
 
 ***integration Wordpress and JS and HTML for develop the Website for UFSM.***
 
-[X] WordPress
-[X] HTML
-[X] JS
+- [X] WordPress
+- [X] HTML
+- [X] JS
 
 
