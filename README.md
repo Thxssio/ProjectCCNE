@@ -1,4 +1,4 @@
-<h1> CCNE </h1>
+<h1 align="middle"> CCNE </h1>
 
 
 
