@@ -3,7 +3,7 @@
 
 
 
-***integration Wordpress and JS and HTML for develop the Website for UFSM.***
+***integration Wordpress and JS and HTML for develop the Website for UFSM - CCNE.***
 
 - [X] WordPress
 - [X] HTML
